@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 2px;
+    display: flex;
+}
+span{
+    margin: 3px;
+}
+.nav2{
+    background-color: white;
+    color: blue;
+    /* margin-top: 5px; */
+    display: flex;
+    align-items: center;
+    
+}
+.span1{
+    padding-right: 20px;
+    border-right: 1px solid white;
+}
+#span2{
+    color: red;
+    padd
+}
+#span3{
+    border-right: .5px solid white ;
+    padding-right: 10px;
+}
+#span4{
+    padding-right: 700px;
+    display: inline-block;
+}
+#select{
+    color: white;
+    background-color: black;
+}
+#allensolly{
+     padding-left: 80px;
+}
+.span5{
+    margin-top: 5px;
+}
+.main{
+    margin-top: 5px;
+    display: inline;
+    padding-left: 50px;
+}
+.main2{
+    display: flex;
+    margin-top: 5px;
+}
